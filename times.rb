@@ -1,4 +1,4 @@
-
+using_times = 1
 
   while using_times >= 7
   puts "#{using_times}"
